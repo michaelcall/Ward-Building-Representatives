@@ -1,6 +1,6 @@
 ---
 
-title: ""
+title: "Meetinghouse Responsibilities And Care"
 
 ---
 
