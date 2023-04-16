@@ -1,49 +1,8 @@
-
 ---
 
-Title: "Goals"
+title: ""
 
 ---
-
-### Table of Contents
-
-- [Goals](#basic-syntax)
-  - [God](#God)
-  - [Horizontal Rule](#horizontal-rule)
-  - [Text formating](#text-formating)
-  - [Lists](#lists)
-  - [Code formating](#code-formating)
-  - [Blockquote](#blockquote)
-  - [Links](#links)
-  - [Images](#images)
-- [Extended Syntax](#extended-syntax)
-  - [Table](#table)
-  - [Task List](#task-list)
-  - [Highlight](#highlight)
-  - [Emoji](#emoji)
-  - [Comments](#comments)
-  - [Toggle](#toggle)
-  - [Callouts](#callouts)
-  - [Table of Contents](#table-of-contents)
-
----
-
-title: "Meetinghouse Care and Responsibilities"
-
----
-
-### Table of Contents
-
-- [Meetinghouse Care And Responsibilities](#extended-syntax)
-  - [Contacts](#lists)
-  - [Schedule](#God)
-  - [Security and Lockup procedure](#horizontal-rule)
-  - [Snow Removal](#text-formating)
-  - [Chairs](#text-formating)  
-  - [Cleaning](#table)
-  - [Maintenance](#highlight)
-  - [Vestibules](#task-list)
- 
 
 ## Summary
 
