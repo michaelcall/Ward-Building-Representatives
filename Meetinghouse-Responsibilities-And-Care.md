@@ -17,7 +17,7 @@ title: "Meetinghouse Responsibilities And Care"
 
 ## Summary
 
--> Stake Building Rep is **Robert Stewart** (801-367-8117)
+-> Stake Building Rep is **Robert Stewart** *(801-367-8117)*
 
 -> Please visit LDS tools app to find facilities members
 
