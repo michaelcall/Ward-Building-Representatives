@@ -5,7 +5,7 @@ title: "Meetinghouse Responsibilities And Care"
 ---
 
 ### Table of Contents
-- [Meetinghouse Care And Responsibilities](#extended-syntax)
+- [Meetinghouse Responsibilities And Care](#extended-syntax)
   - [Contacts](#lists)
   - [Schedule](#God)
   - [Security and Lockup procedure](#horizontal-rule)
