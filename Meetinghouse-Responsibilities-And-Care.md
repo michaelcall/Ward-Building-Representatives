@@ -6,7 +6,8 @@ title: "Meetinghouse Responsibilities And Care"
 
 ### Table of Contents
 - [Meetinghouse Responsibilities And Care](#extended-syntax)
-  - [Contacts](#Summary)
+  - [Summary](#Contacts)
+  - [Contacts](#Contacts)
   - [Schedule](#God)
   - [Security and Lockup procedure](#horizontal-rule)
   - [Snow Removal](#text-formating)
@@ -17,65 +18,20 @@ title: "Meetinghouse Responsibilities And Care"
 
 ## Summary
 
+*This document can be used as a guide to help building representatives and leadership to understand the core responsabilities of meetinghouse care. Wards are assgined speciific months to care for the building and should fulfill all responsabilities during their assgined month*
+
+-> Currently, there are a total of 3 wards that attending the `fdsa`; Therefore, each ward will be assgined four months total durfing the year to care for the budiling. 
+
+-> *Please Contact your assigned Bishop for questions or concerns*!
+
+## Contacts
+
 -> Stake Building Rep is **Robert Stewart** *(801-367-8117)*
 
--> Please visit LDS tools app to find facilities members
+-> Agent Bishop: **Bishop Garbinski** *(801-787-3795)*
 
-### Questions
+-> Please visit LDS tools app to find all other contacts
 
--> None
+## Schedule
 
-## Stake Holders
-
--> None
-
-## Time Estimate
-
-- Planning (0:30)
-- Database Manager (0:00)
-- Service (0:00)
-- Unit Tests (0:00)
-- View model (8:00)
-- UI (8:00)
-- UI Tests (4:00)
-
-TOTAL (21:00)
-
-## Report Database Manager
-
--> None
-
-## Database Manager (*Check for migration scripts)
-
--> None
-
-## Service
-
--> None
-
-## Unit Tests
-
--> None
-
-## View Model
-
--> None
-
-## MedOne.Api/Views
-
--> None
-
-## MedOne.BlazorApp/
-
--> None
-
-## UI
-
--> None
-
-## UI Tests
-
--> None
-
-## Log
 
