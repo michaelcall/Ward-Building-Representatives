@@ -6,7 +6,7 @@ title: "Meetinghouse Responsibilities And Care"
 
 ### Table of Contents
 - [Meetinghouse Responsibilities And Care](#extended-syntax)
-  - [Contacts](#lists)
+  - [Contacts](#Summary)
   - [Schedule](#God)
   - [Security and Lockup procedure](#horizontal-rule)
   - [Snow Removal](#text-formating)
@@ -17,7 +17,9 @@ title: "Meetinghouse Responsibilities And Care"
 
 ## Summary
 
--> None
+-> Stake Building Rep is *Robert Stewart* (801-367-8117)
+
+-> Please visit LDS tools app to find facilities members
 
 ### Questions
 
