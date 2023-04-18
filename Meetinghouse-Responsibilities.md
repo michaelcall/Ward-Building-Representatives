@@ -6,7 +6,7 @@ title: "Meetinghouse Responsibilities"
 
 ### Table of Contents
 
-- [Meetinghouse](#Table of Contents)
+- [Meetinghouse](#Table-of-Contents)
   - [Summary](#Summary)
   - [Contacts](#Contacts)
   - [Schedule](#Schedule)
