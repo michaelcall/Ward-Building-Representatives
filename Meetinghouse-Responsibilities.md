@@ -29,6 +29,7 @@ title: "Meetinghouse Responsibilities"
 
 -> Please visit LDS tools app to find all other contact info
 
+
 ## Schedule
 
 #### 2023
