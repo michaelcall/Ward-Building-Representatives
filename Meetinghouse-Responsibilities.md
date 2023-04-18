@@ -6,15 +6,15 @@ title: "Meetinghouse Responsibilities"
 
 ### Table of Contents
 - [Meetinghouse Responsibilities](#extended-syntax)
-  - [Summary](#Contacts)
+  - [Summary](#Summary)
   - [Contacts](#Contacts)
-  - [Schedule](#God)
-  - [Security and Lockup procedure](#horizontal-rule)
-  - [Snow Removal](#text-formating)
-  - [Chairs](#text-formating)  
-  - [Cleaning](#table)
-  - [Maintenance](#highlight)
-  - [Vestibules](#task-list)
+  - [Schedule](#Schedule)
+  - [Security and Lockup procedure](#Security and Lockup procedure)
+  - [Snow Removal](#Snow Removal)
+  - [Chairs]()  
+  - [Cleaning]()
+  - [Maintenance]()
+  - [Vestibules]()
 
 ## Summary
 
