@@ -5,11 +5,12 @@ title: "Meetinghouse Responsibilities"
 ---
 
 ### Table of Contents
+
 - [Meetinghouse Responsibilities](#Table of Contents)
   - [Summary](#Summary)
   - [Contacts](#Contacts)
   - [Schedule](#Schedule)
-  - [Security](#Security and Lockup procedure)
+  - [Security](#Security)
 
 
 ## Summary
@@ -38,7 +39,7 @@ title: "Meetinghouse Responsibilities"
 
 -> Pheasant Point 3nd Ward (March, June, Sep, Dec)
 
-## Security and Lockup procedure
+## Security
 
 -> Lock All doors. 
 
