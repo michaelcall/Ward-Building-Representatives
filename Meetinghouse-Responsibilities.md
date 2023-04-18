@@ -9,7 +9,6 @@ title: "Meetinghouse Responsibilities"
   - [Summary](#Summary)
   - [Contacts](#Contacts)
   - [Schedule](#Schedule)
-  - [Schedule](#Schedule)
   - [Security-and-Lockup-procedure](#Security and Lockup procedure)
 
 ## Summary
