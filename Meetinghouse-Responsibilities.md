@@ -11,7 +11,7 @@ title: "Meetinghouse Responsibilities"
   - [Contacts](#Contacts)
   - [Schedule](#Schedule)
   - [Security](#Security)
-  - [Security](#Snow-Removal)
+  - [Snow Removal](#Snow-Removal)
 
 
 ## Summary
@@ -59,12 +59,12 @@ title: "Meetinghouse Responsibilities"
 
 ## Snow Removal
 
--> Remove snow for entrance area and sidewalks. 
+-> Remove snow for the entrance area and sidewalks. 
 
--> The north side of the building can accumulate a lot of ice and snow. Thus, this side of the buidling needs extra attention 
+-> The north side of the building can accumulate ice and snow; Therefore, this side of the building needs extra attention 
 
--> Spread ice melt/sait on the sidewalks and entracnce areas
+-> Spread ice melt/salt on the entrance area and sidewalks
 
--> There is a snow blower machine in the shed (* north west corner of the parking lot)
+-> There is a snow blower machine in the shed (*Located north west corner of the parking lot*)
 
 
